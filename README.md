@@ -1,2 +1,1 @@
-# ADF-Practicals
-ADF Practicals SEM 7
+# Multiple Projects implemented in Django
